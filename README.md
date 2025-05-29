@@ -17,7 +17,7 @@ ShoppyGlobe is a fully responsive, modern e-commerce frontend built using **Reac
 
   # 🛒 ShoppyGlobe - E-Commerce React Application
 
-  [[🔗 View on GitHub](https://github.com/yourusername/shoppyglobe)](https://github.com/ChasingCharan/ShoppyGlobe-E-commerce-Application.git)
+  [[🔗 View on GitHub](https://github.com/ChasingCharan/ShoppyGlobe-E-commerce-Application.git)]
 
 
 ## 🧰 Tech Stack
